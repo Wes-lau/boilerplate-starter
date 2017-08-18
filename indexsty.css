@@ -1,0 +1,29 @@
+p{
+color: white;
+background-color: black;
+}
+.black-box {
+  background-color: black;
+  padding: 2px;
+}
+h1{
+color:white!important;
+}
+.smaller-image{
+width:100px;
+
+}
+.smaller-image2{
+width:155px;
+
+}
+.smaller-image3{
+width:95px;
+
+}
+.circlethewagons{
+border-width:10px;
+border-color:black;
+border-style:solid;
+border-radius:50%;
+}
